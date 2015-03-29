@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tcd</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="top">Top view</string>
+    <string name="category">Category view</string>
+    <string name="detail">Detail view</string>
+</resources>
